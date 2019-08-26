@@ -9,9 +9,39 @@
 			"Rev": "f194ddec6f45226fc9e1b4a61b7237f186edd543"
 		},
 		{
+			"ImportPath": "github.com/golang/freetype/raster",
+			"Comment": "release-137-ge2365df",
+			"Rev": "e2365dfdc4a05e4b8299a783240d4a7d5a65d4e4"
+		},
+		{
+			"ImportPath": "github.com/golang/freetype/truetype",
+			"Comment": "release-137-ge2365df",
+			"Rev": "e2365dfdc4a05e4b8299a783240d4a7d5a65d4e4"
+		},
+		{
 			"ImportPath": "github.com/gorilla/mux",
 			"Comment": "v1.6.2-9-g9e1f595",
 			"Rev": "9e1f5955c0d22b55d9e20d6faa28589f83b2faca"
+		},
+		{
+			"ImportPath": "golang.org/x/image/draw",
+			"Rev": "3a9bac650e4435c51552e953d32311000a8ff926"
+		},
+		{
+			"ImportPath": "golang.org/x/image/font",
+			"Rev": "3a9bac650e4435c51552e953d32311000a8ff926"
+		},
+		{
+			"ImportPath": "golang.org/x/image/font/basicfont",
+			"Rev": "3a9bac650e4435c51552e953d32311000a8ff926"
+		},
+		{
+			"ImportPath": "golang.org/x/image/math/f64",
+			"Rev": "3a9bac650e4435c51552e953d32311000a8ff926"
+		},
+		{
+			"ImportPath": "golang.org/x/image/math/fixed",
+			"Rev": "3a9bac650e4435c51552e953d32311000a8ff926"
 		}
 	]
 }

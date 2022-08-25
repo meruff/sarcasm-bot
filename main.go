@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"log"
 	"math/rand"
 	"net/http"
@@ -88,6 +89,7 @@ func randomizeCapitalization(label string) string {
 			}
 		}
 	}
+	fmt.Println(newLabel)
 	return newLabel
 }
 
